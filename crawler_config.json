@@ -1,0 +1,10 @@
+[
+  {
+    "type":"options",
+    "title":"How often to check?",
+    "desc":"Sets the time interval to wait before checking the forum",
+    "section":"Time Settings",
+    "key":"settings_from_list",
+    "options":["15 minutes","30 minutes", "1 hour", "2 hours", "4 hours", "8 hours", "Daily", "5 seconds"]
+  }
+]
